@@ -43,7 +43,6 @@ If you encounter any issues or have suggestions, please open an issue.
 
 ## License
 This BMI Calculator is released under the MIT License.
-```bash
 
-Feel free to modify the template to suit your specific needs or add any additional sections that might be relevant for your project.
-```
+
+
