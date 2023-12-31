@@ -20,5 +20,4 @@ if(BMI>0):
 else:
    print("enter the correct body mass index")
    
-#time : 1.5 hours 
-# :-((((
+
